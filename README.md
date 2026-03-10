@@ -3,7 +3,7 @@
 
 [![DOI](http://img.shields.io/badge/DOI-10.1073%2Fpnas.2415663122-blue)](https://doi.org/10.1073/pnas.2415663122)
 [![arXiv](http://img.shields.io/badge/arXiv-2409.18562-B31B1B.svg)](https://arxiv.org/abs/2409.18562)
-[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.13834650.svg)](https://doi.org/10.5281/zenodo.13834650)
+[![Zenodo](http://img.shields.io/badge/DOI-10.5281%2Fzenodo.13834650-blue)](https://doi.org/10.5281/zenodo.13834650)
 
 Analysis and input files to reproduce simulations of manuscript "Ab initio machine learning simulation of calcium carbonate from aqueous solutions to the solid state" by Piaggi, Gale, and Raiteri
 
